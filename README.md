@@ -43,6 +43,3 @@ ___________________________
 Ask anything from the pdf:
 
 <img width="784" height="448" alt="output" src="https://github.com/user-attachments/assets/2a4a25ac-6d00-4046-984b-c2c8aa11d64b" />
-
-
-
