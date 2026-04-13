@@ -21,10 +21,10 @@ ___________________________
 12. Clean error handling and clear status messages
 13. Deployed on Hugging Face Spaces
 ___________________________
-
 Create account:
 
 <img width="382" height="287" alt="create acc" src="https://github.com/user-attachments/assets/6a0fbfd5-7e5c-4a38-b49c-638eb4fffd1a" />
+
 ___________________________
 
 
