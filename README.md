@@ -21,14 +21,28 @@ ___________________________
 12. Clean error handling and clear status messages
 13. Deployed on Hugging Face Spaces
 ___________________________
+
 Create account:
 
 <img width="382" height="287" alt="create acc" src="https://github.com/user-attachments/assets/6a0fbfd5-7e5c-4a38-b49c-638eb4fffd1a" />
 
 ___________________________
 
-
 Login to your account:
 
 <img width="387" height="276" alt="login acc" src="https://github.com/user-attachments/assets/5fde652e-427d-4198-be2c-435e4cc70071" />
+
+___________________________
+
+Upload pdf (max 2 MB):
+
+<img width="793" height="445" alt="upload pdf" src="https://github.com/user-attachments/assets/e8aabb2d-2b89-45a6-8dfa-e55dda3e2c78" />
+
+___________________________
+
+Ask anything from the pdf:
+
+<img width="784" height="448" alt="output" src="https://github.com/user-attachments/assets/2a4a25ac-6d00-4046-984b-c2c8aa11d64b" />
+
+
 
